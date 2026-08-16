@@ -6,6 +6,8 @@ The story of what was done to `media/lithopia.flv`, in order.
 
 `lithopia.flv` — a ~15.5 minute screen-recorded demo by Denisa Kera walking through Lithopia, a Hyperledger Composer smart-contract prototype for a satellite-verified land registry ("Lithopians" own "Lithopia Place" plots; a red "flag color" pixel from Sentinel-2 satellite imagery triggers ownership-transfer transactions). The recording's mic chain has a noticeable metallic/harsh quality.
 
+Original video: https://www.youtube.com/watch?v=NzoBZAgF5XY
+
 ## 2. Cleaning the original audio
 
 `ffmpeg` chain: `highpass=f=80` (remove rumble) → `afftdn` (spectral denoise) → `loudnorm` (loudness normalize). Conservative settings on the second pass specifically (see step 6) — light denoise (3–8dB), no heavy compression, notch filters only applied where hum was actually measured present (it wasn't, here).
@@ -33,6 +35,8 @@ All 137 transcript segments were resynthesized through MiniMax, each time-stretc
 ## 6. A better source recording
 
 The video's own audio still carries its metallic quality even where "clean," so no amount of resynthesis from it fully escapes that coloration in the reference. Switched to a much better source: an earlier, cleanly-recorded talk — *"Alchemical Emblems & Electronic Circuits"*, Denisa Kera at FIBER Festival 2017 — as the voice-cloning reference instead. Transcribed the same way (whisperx), picked an ~80s clean window, and re-ran both cloning engines from that source for comparison.
+
+FIBER Festival 2017 talk: https://www.youtube.com/watch?v=gWgK82tXKtU
 
 ## 7. Benchmarking
 
