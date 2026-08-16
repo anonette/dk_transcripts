@@ -16,7 +16,7 @@ So in order to deploy this contract, you have to create something called Busines
 
 5
 00:00:38,370 --> 00:00:46,517
-And I'll try to show the files, which are part to simulate basically how smart contracts work in Ethiopia.
+And I'll try to show the files, which are part to simulate basically how smart contracts work in Lithopia.
 
 6
 00:00:46,877 --> 00:00:55,804
@@ -48,11 +48,11 @@ So it can be tokens or participants.
 
 13
 00:01:24,098 --> 00:01:34,506
-These utopians have assets, in this case they have a utopia plot or some property they want to exchange, and they also have marriages.
+These Lithopians have assets, in this case they have a Lithopia plot or some property they want to exchange, and they also have marriages.
 
 14
 00:01:35,406 --> 00:01:50,117
-But this time we'll concentrate only on the asset, a utopia plot that has an owner, that's a utopian, but it also has this strange blockchain transaction and property.
+But this time we'll concentrate only on the asset, a Lithopia plot that has an owner, that's a Lithopian, but it also has this strange blockchain transaction and property.
 
 15
 00:01:50,850 --> 00:01:56,151
@@ -68,7 +68,7 @@ Red color pixels for a Sentinel-2 satellite means 10 by 10 meters, like a space.
 
 18
 00:02:15,634 --> 00:02:23,997
-which Utopians use like a red flag or a red textile, and they put over it in order to indicate, okay, this place is sold.
+which Lithopians use like a red flag or a red textile, and they put over it in order to indicate, okay, this place is sold.
 
 19
 00:02:24,637 --> 00:02:28,839
@@ -80,7 +80,7 @@ First is checking of the flag color, and if there is a flag color, then change t
 
 21
 00:02:37,282 --> 00:02:44,105
-And the change to the ownership happens in this transaction, called the Utopian place transaction,
+And the change to the ownership happens in this transaction, called the Lithopian place transaction,
 
 22
 00:02:44,602 --> 00:02:46,263
@@ -96,7 +96,7 @@ So it's also a script file to basically show how this operates, but like the log
 
 25
 00:03:05,150 --> 00:03:09,972
-So here is like a transaction called FlexColor.
+So here is like a transaction called FlagColor.
 
 26
 00:03:10,012 --> 00:03:13,674
@@ -124,19 +124,19 @@ Participants, but I already did this, and their places.
 
 32
 00:03:45,493 --> 00:03:48,937
-And let's see who are the Lusopian here.
+And let's see who are the Lithopian here.
 
 33
 00:03:48,957 --> 00:03:52,640
-So there is someone Lusopian 3, Lusopian A, and Lusopian B.
+So there is someone Lithopian 3, Lithopian A, and Lithopian B.
 
 34
 00:03:53,641 --> 00:04:03,910
-And the places, I see there is a Lusopian home owned by Lusopian number 3 here, and I will try to change the owner of this asset and
+And the places, I see there is a Lithopian home owned by Lithopian number 3 here, and I will try to change the owner of this asset and
 
 35
 00:04:04,357 --> 00:04:08,118
-Let's say Letopian B will buy from Letopian B's place.
+Let's say Lithopian B will buy from Lithopian B's place.
 
 36
 00:04:08,298 --> 00:04:09,039
@@ -144,15 +144,15 @@ What does it mean?
 
 37
 00:04:09,139 --> 00:04:19,602
-It means that the Letopian B will take a red cloth and put it over Letopian O's place ownership.
+It means that the Lithopian B will take a red cloth and put it over Lithopian O's place ownership.
 
 38
 00:04:20,603 --> 00:04:24,224
-So the first transaction that needs to be triggered is the flat collar.
+So the first transaction that needs to be triggered is the flag color.
 
 39
 00:04:24,424 --> 00:04:27,845
-Here we see all the transactions that are possible now in Letopia.
+Here we see all the transactions that are possible now in Lithopia.
 
 40
 00:04:28,945 --> 00:04:29,886
@@ -172,7 +172,7 @@ This is basically a smart contract.
 
 44
 00:05:00,770 --> 00:05:10,573
-So what happens here is that we got the owner Utopian 3, and there is some red color appearing on the top of it.
+So what happens here is that we got the owner Lithopian 3, and there is some red color appearing on the top of it.
 
 45
 00:05:11,613 --> 00:05:15,314
@@ -180,11 +180,11 @@ In that case, a new transaction can happen.
 
 46
 00:05:15,474 --> 00:05:27,698
-It's called Utopian Place Sold, where the new owner will be Utopian A, and the place
+It's called Lithopian Place Sold, where the new owner will be Lithopian A, and the place
 
 47
 00:05:28,644 --> 00:05:31,425
-that he wants to own his utopian home.
+that he wants to own his Lithopian home.
 
 48
 00:05:35,326 --> 00:05:39,647
@@ -196,11 +196,11 @@ Submit this transaction, and voila.
 
 50
 00:05:43,769 --> 00:05:49,671
-The costume was the red color of this utopian home owned by a utopian number three.
+The outcome was the red color of this Lithopian home owned by a Lithopian number three.
 
 51
 00:05:50,051 --> 00:05:57,293
-Suddenly, it changed the owner, and now the rightful owner of this property is full utopian age.
+Suddenly, it changed the owner, and now the rightful owner of this property is full Lithopian age.
 
 52
 00:05:57,888 --> 00:06:00,649
@@ -208,11 +208,11 @@ So, all these transactions are also recorded here.
 
 53
 00:06:01,710 --> 00:06:12,795
-You see, this is what you see, that a dystopian home is owned now by a new owner, which is called Dystopian A, and also here you see the flat column.
+You see, this is what you see, that a Lithopian home is owned now by a new owner, which is called Lithopian A, and also here you see the flag color.
 
 54
 00:06:14,336 --> 00:06:26,602
-So, the Tatra Ledger Composer Playground lets you test the contract you designed, and now I'll show you how it looks like in the real environment.
+So, the Hyperledger Composer Playground lets you test the contract you designed, and now I'll show you how it looks like in the real environment.
 
 55
 00:06:27,065 --> 00:06:42,952
@@ -232,7 +232,7 @@ So basically what we did in DevComposer can happen also here.
 
 59
 00:07:00,786 --> 00:07:03,168
-So here we have some really utopian.
+So here we have some really Lithopian.
 
 60
 00:07:03,448 --> 00:07:04,969
@@ -248,11 +248,11 @@ So people are testing this,
 
 63
 00:07:22,199 --> 00:07:26,360
-And let's see what properties there are in Utopia.
+And let's see what properties there are in Lithopia.
 
 64
 00:07:27,100 --> 00:07:34,262
-In order to test that, I have to go to Utopia Place and get all the data about Utopia Place.
+In order to test that, I have to go to Lithopia Place and get all the data about Lithopia Place.
 
 65
 00:07:35,882 --> 00:07:40,323
@@ -276,7 +276,7 @@ There is a balcony.
 
 70
 00:07:52,517 --> 00:07:56,520
-We can also change ownership because we see the flat colors.
+We can also change ownership because we see the flag colors.
 
 71
 00:07:57,280 --> 00:08:01,743
@@ -312,15 +312,15 @@ tells them, okay, you want to use the satellite here, where the satellite is, an
 
 79
 00:08:53,354 --> 00:09:07,516
-You also need to know the weather, whether the weather conditions are right for this 10 by 10 meter pixel to be visible to the satellite, and there are also some other services which the utopians may like.
+You also need to know the weather, whether the weather conditions are right for this 10 by 10 meter pixel to be visible to the satellite, and there are also some other services which the Lithopians may like.
 
 80
 00:09:08,356 --> 00:09:12,557
-So, here you see utopians that can do contracts
+So, here you see Lithopians that can do contracts
 
 81
 00:09:14,006 --> 00:09:27,995
-here is the denisa that owns a balcony, that owns a beach, that's me, and here are the utopian properties, the place which she actually got.
+here is the denisa that owns a balcony, that owns a beach, that's me, and here are the Lithopian properties, the place which she actually got.
 
 82
 00:09:28,615 --> 00:09:35,840
@@ -328,11 +328,11 @@ And we're interested in this beach owned by denisa, and let's say we will make L
 
 83
 00:09:36,865 --> 00:09:44,589
-Or we can, you know, add, thank you to you, listopian, the host command on that API service, which we performed here.
+Or we can, you know, add, thank you to you, Lithopian, the host command on that API service, which we performed here.
 
 84
 00:09:44,969 --> 00:09:48,291
-I'll just show how easy it is to add a listopian.
+I'll just show how easy it is to add a Lithopian.
 
 85
 00:09:48,811 --> 00:09:55,334
@@ -476,7 +476,7 @@ So now if I go to the place,
 
 120
 00:12:32,322 --> 00:12:56,698
-Tokyo Place, and I get, try to get all the information about the Tokyo Place, I will see that there is a place called Beach, Beach, Beach, Beach, yeah, here, and suddenly there was a red color that appeared on the beach.
+Lithopia Place, and I get, try to get all the information about the Lithopia Place, I will see that there is a place called Beach, Beach, Beach, Beach, yeah, here, and suddenly there was a red color that appeared on the beach.
 
 121
 00:12:57,598 --> 00:13:01,601
@@ -516,15 +516,15 @@ If you remember in
 
 130
 00:14:30,990 --> 00:14:35,753
-me, it's Anissa, and now I will host the new owner of Loopy.
+me, it's Anissa, and now I will host the new owner of Lithopia.
 
 131
 00:14:36,133 --> 00:14:50,561
-So we have to wait a bit because it takes like a long time data from Twitter, from cryptocurrency exchange to see what is going on and give you some information from Sofian so it takes a while for the interface to be on.
+So we have to wait a bit because it takes like a long time data from Twitter, from cryptocurrency exchange to see what is going on and give you some information from Lithopia so it takes a while for the interface to be on.
 
 132
 00:14:51,341 --> 00:14:57,985
-And now I'm going to properties in Sofian and I see there's a feature.
+And now I'm going to properties in Lithopia and I see there's a feature.
 
 133
 00:14:58,607 --> 00:15:02,589
@@ -532,7 +532,7 @@ The ownership now is basically the same.
 
 134
 00:15:02,809 --> 00:15:08,011
-So this is how transactions work in Ethiopia in an ideal case.
+So this is how transactions work in Lithopia in an ideal case.
 
 135
 00:15:08,852 --> 00:15:13,714
