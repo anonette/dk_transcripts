@@ -1,10 +1,10 @@
 1
 00:00:01,992 --> 00:00:12,939
-We will show in TOPHIA the contracts behind the blockchain service that runs transactions in the village or we call it Smart Village.
+We will show in Lithopia the contracts behind the blockchain service that runs transactions in the village or we call it Smart Village.
 
 2
 00:00:13,519 --> 00:00:25,087
-So this is in TOPHIA and all the contracts that you can trigger in the community that this is their license from the satellites are basically here.
+So this is in Lithopia and all the contracts that you can trigger in the community that this is their license from the satellites are basically here.
 
 3
 00:00:26,187 --> 00:00:28,609
@@ -48,11 +48,11 @@ So it can be tokens or participants.
 
 13
 00:01:24,098 --> 00:01:34,506
-These utopians have assets, in this case they have a utopian plate or some property they want to exchange, and they also have marriages.
+These utopians have assets, in this case they have a utopia plot or some property they want to exchange, and they also have marriages.
 
 14
 00:01:35,406 --> 00:01:50,117
-But this time we'll concentrate only on the asset-utopian plate that has an owner, that's a utopian, but it also has this strange black collar transaction and property.
+But this time we'll concentrate only on the asset, a utopia plot that has an owner, that's a utopian, but it also has this strange blockchain transaction and property.
 
 15
 00:01:50,850 --> 00:01:56,151
@@ -60,11 +60,11 @@ These properties are designed basically as construction and data that comes out 
 
 16
 00:01:56,171 --> 00:02:06,273
-There is a Sentinel-swayed satellite that we tour three days, get on a location, see the GPS coordinates, and check whether there is a red-collar pixel.
+There is a Sentinel-2 satellite that we tour three days, get on a location, see the GPS coordinates, and check whether there is a red color pixel.
 
 17
 00:02:06,613 --> 00:02:14,995
-Red-collar pixels for a Sentinel-swayed satellite means 10 by 10 meters, like a space.
+Red color pixels for a Sentinel-2 satellite means 10 by 10 meters, like a space.
 
 18
 00:02:15,634 --> 00:02:23,997
