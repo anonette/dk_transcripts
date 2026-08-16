@@ -1,0 +1,7 @@
+media/
+*.mp3
+*.mkv
+*.flv
+*.wav
+*.aac
+.claude/

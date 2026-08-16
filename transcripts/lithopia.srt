@@ -1,0 +1,548 @@
+1
+00:00:01,992 --> 00:00:12,939
+We will show in TOPHIA the contracts behind the blockchain service that runs transactions in the village or we call it Smart Village.
+
+2
+00:00:13,519 --> 00:00:25,087
+So this is in TOPHIA and all the contracts that you can trigger in the community that this is their license from the satellites are basically here.
+
+3
+00:00:26,187 --> 00:00:28,609
+You can see them here.
+
+4
+00:00:29,403 --> 00:00:37,970
+So in order to deploy this contract, you have to create something called Business Network Archive, which consists of two files.
+
+5
+00:00:38,370 --> 00:00:46,517
+And I'll try to show the files, which are part to simulate basically how smart contracts work in Ethiopia.
+
+6
+00:00:46,877 --> 00:00:55,804
+So I already used this code, and we basically can use it in this environment called
+
+7
+00:00:56,386 --> 00:01:02,910
+Hyperledger consoles are playgrounds in which you can test your contracts before you deploy them for real.
+
+8
+00:01:03,090 --> 00:01:04,611
+So I'll show them to you later.
+
+9
+00:01:04,931 --> 00:01:09,694
+But first, just what is a smart contract in Hyperledger?
+
+10
+00:01:10,115 --> 00:01:15,218
+It's basically a business network which operates in a certain way.
+
+11
+00:01:15,518 --> 00:01:20,161
+By business network, you first have to define who are the partners, who are the actors.
+
+12
+00:01:20,261 --> 00:01:23,203
+So it can be tokens or participants.
+
+13
+00:01:24,098 --> 00:01:34,506
+These utopians have assets, in this case they have a utopian plate or some property they want to exchange, and they also have marriages.
+
+14
+00:01:35,406 --> 00:01:50,117
+But this time we'll concentrate only on the asset-utopian plate that has an owner, that's a utopian, but it also has this strange black collar transaction and property.
+
+15
+00:01:50,850 --> 00:01:56,151
+These properties are designed basically as construction and data that comes out of the satellite.
+
+16
+00:01:56,171 --> 00:02:06,273
+There is a Sentinel-swayed satellite that we tour three days, get on a location, see the GPS coordinates, and check whether there is a red-collar pixel.
+
+17
+00:02:06,613 --> 00:02:14,995
+Red-collar pixels for a Sentinel-swayed satellite means 10 by 10 meters, like a space.
+
+18
+00:02:15,634 --> 00:02:23,997
+which Utopians use like a red flag or a red textile, and they put over it in order to indicate, okay, this place is sold.
+
+19
+00:02:24,637 --> 00:02:28,839
+So in order to change the owner, there are two transactions.
+
+20
+00:02:29,679 --> 00:02:37,142
+First is checking of the flag color, and if there is a flag color, then change the owner.
+
+21
+00:02:37,282 --> 00:02:44,105
+And the change to the ownership happens in this transaction, called the Utopian place transaction,
+
+22
+00:02:44,602 --> 00:02:46,263
+and we basically give it a new owner.
+
+23
+00:02:46,723 --> 00:02:50,865
+So I'll simulate it now in a yield scenario how it works.
+
+24
+00:02:51,045 --> 00:03:04,510
+So it's also a script file to basically show how this operates, but like the logic basically behind these model files where we see who, what, and how it changes.
+
+25
+00:03:05,150 --> 00:03:09,972
+So here is like a transaction called FlexColor.
+
+26
+00:03:10,012 --> 00:03:13,674
+It basically says, you know, find this place, and then
+
+27
+00:03:14,097 --> 00:03:27,043
+put this property called flagColor here, and then change the registry, that means change the asset owner, or change, add the flagColor to the place.
+
+28
+00:03:28,064 --> 00:03:33,047
+So, I'll deploy the changes, just in case, and now I'm going to test.
+
+29
+00:03:33,227 --> 00:03:38,969
+In order to test anything on playgrounds, hyperledger, most of the playgrounds have great, you know,
+
+30
+00:03:40,489 --> 00:03:41,290
+functions here.
+
+31
+00:03:41,570 --> 00:03:44,613
+Participants, but I already did this, and their places.
+
+32
+00:03:45,493 --> 00:03:48,937
+And let's see who are the Lusopian here.
+
+33
+00:03:48,957 --> 00:03:52,640
+So there is someone Lusopian 3, Lusopian A, and Lusopian B.
+
+34
+00:03:53,641 --> 00:04:03,910
+And the places, I see there is a Lusopian home owned by Lusopian number 3 here, and I will try to change the owner of this asset and
+
+35
+00:04:04,357 --> 00:04:08,118
+Let's say Letopian B will buy from Letopian B's place.
+
+36
+00:04:08,298 --> 00:04:09,039
+What does it mean?
+
+37
+00:04:09,139 --> 00:04:19,602
+It means that the Letopian B will take a red cloth and put it over Letopian O's place ownership.
+
+38
+00:04:20,603 --> 00:04:24,224
+So the first transaction that needs to be triggered is the flat collar.
+
+39
+00:04:24,424 --> 00:04:27,845
+Here we see all the transactions that are possible now in Letopia.
+
+40
+00:04:28,945 --> 00:04:29,886
+So as
+
+41
+00:04:31,131 --> 00:04:48,584
+So I want to change, so we can start to play home, home, home, home, home, and there will be a red color satellite.
+
+42
+00:04:49,084 --> 00:04:58,631
+And basically the satellite submits this data into the hyperliferate fabric and it changes this to like a smart contract.
+
+43
+00:04:58,651 --> 00:05:00,352
+This is basically a smart contract.
+
+44
+00:05:00,770 --> 00:05:10,573
+So what happens here is that we got the owner Utopian 3, and there is some red color appearing on the top of it.
+
+45
+00:05:11,613 --> 00:05:15,314
+In that case, a new transaction can happen.
+
+46
+00:05:15,474 --> 00:05:27,698
+It's called Utopian Place Sold, where the new owner will be Utopian A, and the place
+
+47
+00:05:28,644 --> 00:05:31,425
+that he wants to own his utopian home.
+
+48
+00:05:35,326 --> 00:05:39,647
+All.
+
+49
+00:05:39,687 --> 00:05:42,768
+Submit this transaction, and voila.
+
+50
+00:05:43,769 --> 00:05:49,671
+The costume was the red color of this utopian home owned by a utopian number three.
+
+51
+00:05:50,051 --> 00:05:57,293
+Suddenly, it changed the owner, and now the rightful owner of this property is full utopian age.
+
+52
+00:05:57,888 --> 00:06:00,649
+So, all these transactions are also recorded here.
+
+53
+00:06:01,710 --> 00:06:12,795
+You see, this is what you see, that a dystopian home is owned now by a new owner, which is called Dystopian A, and also here you see the flat column.
+
+54
+00:06:14,336 --> 00:06:26,602
+So, the Tatra Ledger Composer Playground lets you test the contract you designed, and now I'll show you how it looks like in the real environment.
+
+55
+00:06:27,065 --> 00:06:42,952
+First of all, these things that we see here, like access participants and so on, they're available on the hyper, or they're visible on the hyperledger to something called REST API environment.
+
+56
+00:06:43,473 --> 00:06:52,677
+It's basically an interface in which you can query the data or add data and get data out of that blockchain service.
+
+57
+00:06:53,002 --> 00:06:56,264
+where it's now just simulated on my server.
+
+58
+00:06:56,424 --> 00:07:00,426
+So basically what we did in DevComposer can happen also here.
+
+59
+00:07:00,786 --> 00:07:03,168
+So here we have some really utopian.
+
+60
+00:07:03,448 --> 00:07:04,969
+I'll show where they come from.
+
+61
+00:07:04,989 --> 00:07:18,156
+So in case I want to get them and see them, I'd have to click here, and I see there is some Benito, Benito 2019, some guy called Dan, 451, even someone called Cisco.
+
+62
+00:07:19,297 --> 00:07:20,878
+So people are testing this,
+
+63
+00:07:22,199 --> 00:07:26,360
+And let's see what properties there are in Utopia.
+
+64
+00:07:27,100 --> 00:07:34,262
+In order to test that, I have to go to Utopia Place and get all the data about Utopia Place.
+
+65
+00:07:35,882 --> 00:07:40,323
+So we can see there is a place that has like a changed ownership.
+
+66
+00:07:40,583 --> 00:07:42,384
+Let's see some more simple owners.
+
+67
+00:07:42,444 --> 00:07:45,885
+First in beach, Indonesia, or Madrid flat, Indonesia.
+
+68
+00:07:45,905 --> 00:07:49,366
+These are mines, strollers, someone owns a stroller.
+
+69
+00:07:49,746 --> 00:07:50,926
+There is a balcony.
+
+70
+00:07:52,517 --> 00:07:56,520
+We can also change ownership because we see the flat colors.
+
+71
+00:07:57,280 --> 00:08:01,743
+Let's just use maybe this one, a beach that is owned by the Nista.
+
+72
+00:08:02,204 --> 00:08:05,005
+And we will change the owner of this property.
+
+73
+00:08:05,746 --> 00:08:12,310
+So let me just show you where the data are visible to visitors of the installation.
+
+74
+00:08:12,911 --> 00:08:17,834
+So for that, there is an interface called NodeRest.
+
+75
+00:08:18,766 --> 00:08:31,378
+And it looks, it's basically an interface through which you can add some query data from the hyperledger and make them visible, but also add data to the hyperledger, like new participants and new access.
+
+76
+00:08:31,518 --> 00:08:39,866
+Basically, what we did in the playground and now in the API service, in the command, we can also do like this interface.
+
+77
+00:08:40,366 --> 00:08:44,130
+It's basically a dashboard that is a loophole to the Lithopians.
+
+78
+00:08:44,492 --> 00:08:52,573
+tells them, okay, you want to use the satellite here, where the satellite is, and you need to wait when the satellite is about your property.
+
+79
+00:08:53,354 --> 00:09:07,516
+You also need to know the weather, whether the weather conditions are right for this 10 by 10 meter pixel to be visible to the satellite, and there are also some other services which the utopians may like.
+
+80
+00:09:08,356 --> 00:09:12,557
+So, here you see utopians that can do contracts
+
+81
+00:09:14,006 --> 00:09:27,995
+here is the denisa that owns a balcony, that owns a beach, that's me, and here are the utopian properties, the place which she actually got.
+
+82
+00:09:28,615 --> 00:09:35,840
+And we're interested in this beach owned by denisa, and let's say we will make Lucy an owner of this beach.
+
+83
+00:09:36,865 --> 00:09:44,589
+Or we can, you know, add, thank you to you, listopian, the host command on that API service, which we performed here.
+
+84
+00:09:44,969 --> 00:09:48,291
+I'll just show how easy it is to add a listopian.
+
+85
+00:09:48,811 --> 00:09:55,334
+So let's say we will add Anastasia.
+
+86
+00:09:56,234 --> 00:09:57,715
+So that's like the host command.
+
+87
+00:09:58,075 --> 00:09:59,716
+And here you have the get command.
+
+88
+00:09:59,876 --> 00:10:01,937
+And you see another Anastasia.
+
+89
+00:10:01,977 --> 00:10:03,458
+So there was another Anastasia.
+
+90
+00:10:03,851 --> 00:10:08,794
+and you can offer a partnership, I guess, or a property to yourself.
+
+91
+00:10:08,894 --> 00:10:12,236
+So, where does this interface come into play?
+
+92
+00:10:12,336 --> 00:10:16,238
+And how does it basically communicate with the REST API service?
+
+93
+00:10:16,579 --> 00:10:20,641
+I'll just show you where it comes from.
+
+94
+00:10:20,761 --> 00:10:29,166
+And then I'll go back to the REST API server, and we will do the transaction which I just described with the balcony owned by the new server, will be owned by .
+
+95
+00:10:29,566 --> 00:10:31,267
+So, this is just shortly the,
+
+96
+00:10:34,619 --> 00:10:41,823
+program in which you design Facebook's interface on Node-RED, really Facebook's REST API and this blockchain.
+
+97
+00:10:42,283 --> 00:10:49,107
+Here you see the get command, where it shows who owns what and who.
+
+98
+00:10:49,747 --> 00:11:02,595
+And here in this construction, the simple construction where you can add a new name, the family token, offer a product and you should execute this very simple post command with this, like,
+
+99
+00:11:03,268 --> 00:11:04,089
+in those forms.
+
+100
+00:11:04,649 --> 00:11:10,093
+So, right now, on Node-RED, you can just add participants and assets.
+
+101
+00:11:10,594 --> 00:11:14,617
+In order to do the transaction, you have to use the REST API.
+
+102
+00:11:14,917 --> 00:11:18,279
+Now, we don't have it in Node-RED, so I'll do it this way.
+
+103
+00:11:18,760 --> 00:11:22,002
+I'll go back to the REST API server.
+
+104
+00:11:23,563 --> 00:11:24,985
+Not the point of this contract.
+
+105
+00:11:26,646 --> 00:11:32,010
+And I know I have Nucleus and Nucleus-Ethiopians, and I know I have this place called speech.
+
+106
+00:11:32,755 --> 00:11:33,875
+And I want to sell it.
+
+107
+00:11:33,955 --> 00:11:36,616
+So I want to do the token in place sold transaction.
+
+108
+00:11:36,676 --> 00:11:39,456
+In order to do that, we need a flag color.
+
+109
+00:11:40,176 --> 00:11:49,058
+So I'll post, I'll pretend that I'm a satellite posting the red color to this API, REST API address.
+
+110
+00:11:49,278 --> 00:11:50,238
+So it's simple.
+
+111
+00:11:50,698 --> 00:11:53,479
+I'll just put a flag color red.
+
+112
+00:11:54,399 --> 00:11:57,259
+But I also have to say which place is concerned.
+
+113
+00:11:57,880 --> 00:11:58,520
+And it is these.
+
+114
+00:12:02,237 --> 00:12:09,601
+So someone put a red color on the beach owned by the MISA, someone called the MISI, and it's going to change.
+
+115
+00:12:09,861 --> 00:12:13,423
+Not to put a transaction here.
+
+116
+00:12:14,123 --> 00:12:20,367
+This timestamp is important for the blockchain to know when that transaction happens.
+
+117
+00:12:20,607 --> 00:12:21,467
+Let's see.
+
+118
+00:12:22,308 --> 00:12:24,169
+Looks like everything is in order.
+
+119
+00:12:25,149 --> 00:12:30,672
+So now if I go to the place,
+
+120
+00:12:32,322 --> 00:12:56,698
+Tokyo Place, and I get, try to get all the information about the Tokyo Place, I will see that there is a place called Beach, Beach, Beach, Beach, yeah, here, and suddenly there was a red color that appeared on the beach.
+
+121
+00:12:57,598 --> 00:13:01,601
+This place is, by the way, still owned by UNISDA.
+
+122
+00:13:03,189 --> 00:13:15,556
+And now we're going to, in order to change the ownership of this place, we need to trigger, we have the red color, this will trigger another transaction called token place sold.
+
+123
+00:13:16,077 --> 00:13:21,480
+It just has to indicate if the token place sold, who are we selling it to?
+
+124
+00:13:22,160 --> 00:13:27,443
+So, here the new owner will be, we'll see,
+
+125
+00:13:34,982 --> 00:13:38,543
+which place will change its ownership, a place called beach.
+
+126
+00:13:39,103 --> 00:13:58,029
+So what happens here is that the logic file that defines how transactions operate will check whether there is a color red in an asset called beach, and if there is a color red, then it will change and will owner the listing.
+
+127
+00:13:58,449 --> 00:13:59,850
+So let's see what happens.
+
+128
+00:14:02,406 --> 00:14:19,590
+So let's see whether that's true and we will go back to that Node-RED interface to check who is the owner of the beach.
+
+129
+00:14:19,690 --> 00:14:20,530
+If you remember in
+
+130
+00:14:30,990 --> 00:14:35,753
+me, it's Anissa, and now I will host the new owner of Loopy.
+
+131
+00:14:36,133 --> 00:14:50,561
+So we have to wait a bit because it takes like a long time data from Twitter, from cryptocurrency exchange to see what is going on and give you some information from Sofian so it takes a while for the interface to be on.
+
+132
+00:14:51,341 --> 00:14:57,985
+And now I'm going to properties in Sofian and I see there's a feature.
+
+133
+00:14:58,607 --> 00:15:02,589
+The ownership now is basically the same.
+
+134
+00:15:02,809 --> 00:15:08,011
+So this is how transactions work in Ethiopia in an ideal case.
+
+135
+00:15:08,852 --> 00:15:13,714
+And what we're working on is basically we're automatizing transactions.
+
+136
+00:15:14,114 --> 00:15:20,517
+This can be triggered by satellite data and the beautiful lens are intervention in space.
+
+137
+00:15:21,297 --> 00:15:23,178
+So the beach is now owned by the team.
+
